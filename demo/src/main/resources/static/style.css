@@ -1,0 +1,30 @@
+h2 {
+    font-family: sans-serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    align-self: center;
+
+}
+p {
+    font-family: sans-serif;
+}
+body{
+    background-color: beige;
+    /* text-align: center; */
+}
+input {
+    width:15%;
+    padding: 10px 10px;;
+}
+
+div.form
+{
+    display: block;
+    text-align: center;
+    width:100%;
+    background-color: #c0d7f8;
+} 
+
+ #loading {
+    text-align: center;
+  } 
